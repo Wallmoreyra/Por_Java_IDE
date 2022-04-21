@@ -1,0 +1,11 @@
+Crear un inversor de palabras
+
+cadena de texto origonal:
+	Hola Wally
+
+cadena de texto invertida:
+	yllaW aloH
+
+Tips:
+ 1. Método .length();
+ 2. Método .substring();
